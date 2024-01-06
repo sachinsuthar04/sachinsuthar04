@@ -1,4 +1,4 @@
-# github_profile_config
+# Sachin Suthar
 
 <div align="center">
   <img src="sachin.gif" width="70%" />
